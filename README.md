@@ -9,7 +9,7 @@ I build full-stack web applications for billing, receipt creation and AI-assiste
 
 <p>
   <a href="https://rohitfatkare.vercel.app/"><img src="./assets/link-portfolio.svg" alt="Explore my portfolio" height="34"></a>
-  <a href="https://www.linkedin.com/in/rohit-fatkare-7585a2296/"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" height="34"></a>
+  <a href="https://www.linkedin.com/in/rohit-fatkare/"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" height="34"></a>
   <a href="mailto:fatkarerohit05@gmail.com"><img src="./assets/link-email.svg" alt="Email fatkarerohit05@gmail.com" height="34"></a>
 </p>
 
